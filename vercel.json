@@ -1,0 +1,10 @@
+{
+    "builds": [
+      {
+        "src": "svelte-app/*",  
+        "use": "@vercel/static-build",
+        "config": { "distDir": "dist" } 
+      }
+    ]
+  }
+  
