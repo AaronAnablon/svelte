@@ -605,7 +605,7 @@
   resolved "https://registry.npmjs.org/@sveltejs/adapter-static/-/adapter-static-2.0.2.tgz"
   integrity sha512-9wYtf6s6ew7DHUHMrt55YpD1FgV7oWql2IGsW5BXquLxqcY9vjrqCFo0TzzDpo+ZPZkW/v77k0eOP6tsAb8HmQ==
 
-"@sveltejs/kit@^1.0.0", "@sveltejs/kit@^1.30.3", "@sveltejs/kit@^1.5.0":
+"@sveltejs/kit@^1.0.0", "@sveltejs/kit@^1.5.0":
   version "1.30.3"
   resolved "https://registry.npmjs.org/@sveltejs/kit/-/kit-1.30.3.tgz"
   integrity sha512-0DzVXfU4h+tChFvoc8C61IqErCyskD4ydSIDjpKS2lYlEzIYrtYrY7juSqACFxqcvZAnOEXvSY+zZ8br0+ZMMg==
