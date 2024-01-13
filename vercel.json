@@ -1,17 +1,10 @@
 {
     "builds": [
       {
-        "src": "src/routes/**/*.svelte",
+        "src": "src/**/*.svelte",
         "use": "@sveltejs/kit",
-        "config": {
-          "extensions": [".svelte"],
-          "distDir": "build"
-        }
+        "config": { "extensions": [".svelte"] }
       }
-    ],
-    "routes": [
-      { "handle": "filesystem" },
-      { "src": "/.*", "dest": "/index.html" }
     ]
   }
   
