@@ -7,7 +7,7 @@
   export let dateOfAppointment = "";
   export let mywindow = null;
 
-  import header from "./images/certificateheader.png";
+  import header from "./images/certificateHeader.png";
   import footer from "./images/certificateFooter.png";
 
   const handleEvent = () => {
