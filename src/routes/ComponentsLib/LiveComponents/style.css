@@ -1,0 +1,171 @@
+.box {
+    width: 630px;
+    height: 891px;
+  }
+  
+  .box .group {
+    position: fixed;
+    width: 640px;
+    height: 891px;
+    top: 0;
+    left: 0;
+  }
+  
+  .box .overlap {
+    position: relative;
+    width: 630px;
+    height: 891px;
+    background-color: #ffffff;
+  }
+  
+  .box .republic-of-the {
+    position: absolute;
+    width: 316px;
+    top: 52px;
+    left: 157px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .box .text-wrapper {
+    position: absolute;
+    width: 316px;
+    top: 110px;
+    left: 157px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .box .div {
+    width: 316px;
+    top: 168px;
+    left: 157px;
+    color: #000000;
+    font-size: 20px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .box .ellipse {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 37px;
+    left: 496px;
+    background-color: #d9d9d9;
+    border-radius: 30px;
+  }
+  
+  .box .line {
+    height: 3px;
+    top: 146px;
+    position: absolute;
+    width: 555px;
+    left: 37px;
+  }
+  
+  .box .img {
+    height: 1px;
+    top: 151px;
+    object-fit: cover;
+    position: absolute;
+    width: 555px;
+    left: 37px;
+  }
+  
+  .box .overlap-group {
+    position: absolute;
+    width: 172px;
+    height: 366px;
+    top: 210px;
+    left: 37px;
+  }
+  
+  .box .overlap-group-wrapper {
+    position: absolute;
+    width: 172px;
+    height: 366px;
+    top: 0;
+    left: 0;
+  }
+  
+  .box .overlap-group-2 {
+    position: relative;
+    height: 366px;
+  }
+  
+  .box .rectangle {
+    top: 3px;
+    left: 0;
+    background-color: #727272;
+    position: absolute;
+    width: 170px;
+    height: 363px;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .box .rectangle-2 {
+    top: 0;
+    left: 2px;
+    background-color: #ffffff;
+    position: absolute;
+    width: 170px;
+    height: 363px;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .box .alfredo-f-arevalo {
+    position: absolute;
+    width: 108px;
+    top: 16px;
+    left: 31px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .box .text-wrapper-2 {
+    width: 108px;
+    top: 30px;
+    left: 30px;
+    color: #0061bb;
+    font-size: 8px;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .box .download {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 37px;
+    left: 74px;
+    object-fit: cover;
+  }
+  
