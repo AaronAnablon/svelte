@@ -1,10 +1,17 @@
 {
     "builds": [
       {
-        "src": "svelte-app/*",  
-        "use": "@vercel/static-build",
-        "config": { "distDir": "dist" } 
+        "src": "src/routes/**/*.svelte",
+        "use": "@sveltejs/kit",
+        "config": {
+          "extensions": [".svelte"],
+          "distDir": "build"
+        }
       }
+    ],
+    "routes": [
+      { "handle": "filesystem" },
+      { "src": "/.*", "dest": "/app.html" }
     ]
   }
   
